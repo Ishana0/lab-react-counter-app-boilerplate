@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+#main-container {
+  position: relative;
+  left: 500px;
+  top: 200px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#container {
+  position: relative;
+  padding: 10px;
+}
+#plus {
+  padding: 15px;
+  background-color: burlywood;
+}
+#minus {
+  padding: 15px;
+  background-color: burlywood;
+}
+#reset {
+  padding: 15px;
+  background-color: burlywood;
+}
